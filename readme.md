@@ -1,23 +1,12 @@
 <!-- 
   Welcome to iTalanta Open Source!
-  This repository will act as your home repo for the iTalanta/Moringa open source intern/externship.
-
-  Please fork and update this portfolio page to fit your profile.
+  This repository acts as my home repo for the iTalanta/Moringa open source intern/externship.
 -->
 
-<!-- 
-  -- SECTION: INTRODUCTION
-  -- 
-  -->
-
 <h1 align="center">Hello 👋, Phillip Kinuthia</h1>
-<!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">Graduate of Moringa School. Currently an Intern at Italanta, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">Graduate of Moringa School. Currently an Intern at Italanta, Working on iTalanta open-source Projects!</h3>
 
 <br/>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p> -->
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
@@ -29,13 +18,8 @@
   <span>&nbsp;</span>
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/21027447/phillip-kinuthia" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Phillip's Stack Overflow" /></a> 
-
-  <!-- Other badges -->
-  <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
 </p>
-
-<br/>
+<br/> <br/>
 
 
 <!-- 
@@ -43,7 +27,7 @@
   -- 
   -->
 
-<h1>Overview</h1>
+<h1 align="center">Overview</h1>
 
 ### Get to know me
 
@@ -53,20 +37,19 @@
 
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
-🌱 I’m currently working with **Javascript,reactjs, SQL and Ruby!**.
+🌱 I’m currently working with **Javascript,Reactjs,Angular, SQL, Ruby and Ruby on Rails!**.
 
 ⚡ Fun fact? **no animal has a faster metabolism!**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+🔭 I’m currently working on [Elewa-Group](https://github.com/italanta/elewa-group)
+
 
 <!-- TODO: Update at the end of every day with your  -->
-<!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)! -->
+🤝 About to score [this bounty](https://github.com/italanta/elewa-group/issues/4)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/littlephillips](https://github.com/littlephillips)
 
 ### Interested ?
 
@@ -95,18 +78,28 @@
 </p>
 <br/>
 
+#
+
+<br/>
+
 <!-- Link in this table your actual contributions -->
-<!-- ### My contributions
+### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) | -->
+| 10/02/23 	| 🏇 add home page lander fetaure | open | [#4](https://github.com/italanta/elewa-group/issues/4) 
 
+<br/>
 
-<!-- ### The technologies I used
+#
 
-<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> </p> -->
+### The technologies I used
+
+<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </p>
+
+<!-- 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> -->
 
 <!-- END: EXPERIENCE I -->
 
